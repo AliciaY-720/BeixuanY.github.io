@@ -4785,3 +4785,9 @@ input, select, textarea {
 		}
 
 	}
+
+	.inline{
+		display: inline-block;
+		font-size: 0.9em;
+		list-style-type: none;
+	}
