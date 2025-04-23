@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Twitter Stream Analysis - Cryptocurrency Trends</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+	<div id="wrapper">
+		<header id="header"></header>
+		<nav id="nav">
+			<ul class="links">
+				<li class="active"><a href="index.html">Main Page</a></li>
+				<li><a href="drawings.html">Drawings</a></li>
+				<li><a href="AE.html">Autoexposure Project</a></li>
+				<li><a href="raptorcoders.html">RaptorCoders Web Project</a></li>
+				<li><a href="miner.html">Miners Distribution Project</a></li>
+				<li><a href="xgboost.html">XGBoost Project</a></li>
+			</ul>
+			<ul class="icons">
+				<li><a href="https://www.linkedin.com/in/beixuan-yang/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				<li><a href="https://github.com/AliciaY-720" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+			</ul>
+		</nav>
+		<div id="main">
+			<section style="background-image: url(images/gradient-iphone-wallpaper-oil-bubble-water-background.jpg); background-size: auto; background-repeat: repeat;">
+				<header class="major">
+					<span class="date">April 2025</span>
+					<h2 style="color: blanchedalmond;">Twitter Stream Analysis of Cryptocurrency Trends</h2>
+				</header>
+				<p style="color: antiquewhite;">
+					This project involved building a real-time data pipeline using Apache Spark Streaming, Tweepy, and Python NLP tools to analyze public sentiment and hashtag trends for five major cryptocurrencies. Data was collected live from Twitter and processed to visualize both hashtag popularity and sentiment trends.
+				</p>
+			</section>
+			<section style="background-image: url(images/back2.jpeg); background-size: auto; background-repeat: repeat;">
+				<header>
+					<h2 style="font-size:25px !important; color: blanchedalmond;">Results Summary</h2>
+				</header>
+				<p style="color: antiquewhite;">
+					<b style="color: rgb(196, 183, 168);">Part A – Hashtag Popularity Tracking:</b><br>
+					Tweets containing #bitcoin, #ethereum, #dogecoin, #xrp, and #cardano were tracked and aggregated in real time. Mentions were logged in <a href="pdfs/a.txt" style="color:lightblue"> a.txt</a> and processed into <a href="pdfs/popularity.txt" style="color:lightblue">popularity.txt</a> for visualization.<br>
+                    <b style="color: rgb(196, 183, 168);">Sample Plots:</b>
+                    <br>
+                    <img src="images/a_chart.png" alt="Hashtag Count Chart" class="img-fluid my-3" />
+					<img src="images/popularity_chart.png" alt="Popularity Trend Chart" class="img-fluid mb-4" />
+					<br>
+					<b style="color: rgb(196, 183, 168);">Part B – Real-Time Sentiment Analysis:</b><br>
+					Tweets were analyzed using VADER sentiment analysis to classify them by topic and polarity. Sentiment counts were stored in <a href="pdfs/b.txt" style="color:lightblue">b.txt</a> and average sentiment per topic over time was computed in <a href="pdfs/averageSentiment.txt" style="color:lightblue">averageSentiment.txt</a>.<br>
+
+					<b style="color: rgb(196, 183, 168);">Sample Plots:</b>
+                    <br>
+                    <img src="images/b_chart.png" alt="Sentiment Count Chart" class="img-fluid my-3" />
+					<img src="images/averageSentiment_chart.png" alt="Average Sentiment Over Time" class="img-fluid mb-4" />
+
+				</p>
+			</section>
+		</div>
+
+	</div>
+ 
+        <div style="display: flex; justify-content: center;">
+            <div id="copyright">
+                <ul style="color: rgb(163, 151, 214);">
+                    <li>&copy; Beixuan</li>
+                    <li>Template: <a href="https://html5up.net">HTML5 UP</a></li>
+                </ul>
+            </div>
+        </div>
+  
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+</body>
+</html>

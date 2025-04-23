@@ -1,0 +1,511 @@
+----------- 2021-06-20 01:28:59 -----------
+bitcoin	0.00
+ethereum	0.00
+cardano	0.00
+xrp	0.00
+dogecoin	0.00
+----------- 2021-06-20 01:29:05 -----------
+bitcoin	0.00
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.50
+----------- 2021-06-20 01:29:10 -----------
+bitcoin	0.50
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.17
+----------- 2021-06-20 01:29:15 -----------
+bitcoin	0.14
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.25
+----------- 2021-06-20 01:29:20 -----------
+bitcoin	0.08
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.18
+----------- 2021-06-20 01:29:25 -----------
+bitcoin	0.18
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.18
+----------- 2021-06-20 01:29:30 -----------
+bitcoin	0.20
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.06
+----------- 2021-06-20 01:29:35 -----------
+bitcoin	0.18
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.06
+----------- 2021-06-20 01:29:40 -----------
+bitcoin	0.17
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.06
+----------- 2021-06-20 01:29:45 -----------
+bitcoin	0.17
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.11
+----------- 2021-06-20 01:29:50 -----------
+bitcoin	0.19
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.10
+----------- 2021-06-20 01:29:55 -----------
+bitcoin	0.19
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.10
+----------- 2021-06-20 01:30:00 -----------
+bitcoin	0.17
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.09
+----------- 2021-06-20 01:30:05 -----------
+bitcoin	0.17
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.09
+----------- 2021-06-20 01:30:10 -----------
+bitcoin	0.18
+ethereum	0.50
+cardano	0.00
+xrp	0.00
+dogecoin	0.08
+----------- 2021-06-20 01:30:15 -----------
+bitcoin	0.16
+ethereum	0.38
+cardano	0.00
+xrp	1.00
+dogecoin	0.08
+----------- 2021-06-20 01:30:20 -----------
+bitcoin	0.16
+ethereum	0.33
+cardano	-0.50
+xrp	1.00
+dogecoin	0.07
+----------- 2021-06-20 01:30:25 -----------
+bitcoin	0.16
+ethereum	0.33
+cardano	-0.50
+xrp	1.00
+dogecoin	0.07
+----------- 2021-06-20 01:30:30 -----------
+bitcoin	0.16
+ethereum	0.17
+cardano	-0.50
+xrp	1.00
+dogecoin	0.06
+----------- 2021-06-20 01:30:35 -----------
+bitcoin	0.15
+ethereum	0.17
+cardano	-0.50
+xrp	1.00
+dogecoin	0.09
+----------- 2021-06-20 01:30:40 -----------
+bitcoin	0.17
+ethereum	0.20
+cardano	-0.50
+xrp	1.00
+dogecoin	0.14
+----------- 2021-06-20 01:30:45 -----------
+bitcoin	0.17
+ethereum	0.20
+cardano	-0.50
+xrp	0.50
+dogecoin	0.14
+----------- 2021-06-20 01:30:50 -----------
+bitcoin	0.16
+ethereum	0.24
+cardano	-0.50
+xrp	0.50
+dogecoin	0.14
+----------- 2021-06-20 01:30:55 -----------
+bitcoin	0.16
+ethereum	0.24
+cardano	-0.50
+xrp	0.50
+dogecoin	0.14
+----------- 2021-06-20 01:31:00 -----------
+bitcoin	0.16
+ethereum	0.17
+cardano	-0.50
+xrp	0.50
+dogecoin	0.13
+----------- 2021-06-20 01:31:05 -----------
+bitcoin	0.18
+ethereum	0.21
+cardano	-0.33
+xrp	0.50
+dogecoin	0.15
+----------- 2021-06-20 01:31:10 -----------
+bitcoin	0.19
+ethereum	0.25
+cardano	-0.33
+xrp	0.33
+dogecoin	0.18
+----------- 2021-06-20 01:31:15 -----------
+bitcoin	0.20
+ethereum	0.24
+cardano	-0.33
+xrp	0.33
+dogecoin	0.20
+----------- 2021-06-20 01:31:20 -----------
+bitcoin	0.21
+ethereum	0.24
+cardano	-0.33
+xrp	0.33
+dogecoin	0.20
+----------- 2021-06-20 01:31:25 -----------
+bitcoin	0.20
+ethereum	0.24
+cardano	-0.33
+xrp	0.33
+dogecoin	0.21
+----------- 2021-06-20 01:31:30 -----------
+bitcoin	0.18
+ethereum	0.24
+cardano	0.00
+xrp	0.33
+dogecoin	0.23
+----------- 2021-06-20 01:31:35 -----------
+bitcoin	0.18
+ethereum	0.24
+cardano	0.00
+xrp	0.33
+dogecoin	0.23
+----------- 2021-06-20 01:31:40 -----------
+bitcoin	0.18
+ethereum	0.24
+cardano	0.00
+xrp	0.33
+dogecoin	0.24
+----------- 2021-06-20 01:31:45 -----------
+bitcoin	0.19
+ethereum	0.23
+cardano	0.00
+xrp	0.25
+dogecoin	0.25
+----------- 2021-06-20 01:31:50 -----------
+bitcoin	0.19
+ethereum	0.21
+cardano	0.00
+xrp	0.25
+dogecoin	0.23
+----------- 2021-06-20 01:31:55 -----------
+bitcoin	0.18
+ethereum	0.19
+cardano	0.00
+xrp	0.40
+dogecoin	0.23
+----------- 2021-06-20 01:32:00 -----------
+bitcoin	0.19
+ethereum	0.19
+cardano	0.00
+xrp	0.40
+dogecoin	0.22
+----------- 2021-06-20 01:32:05 -----------
+bitcoin	0.18
+ethereum	0.19
+cardano	0.00
+xrp	0.40
+dogecoin	0.22
+----------- 2021-06-20 01:32:10 -----------
+bitcoin	0.16
+ethereum	0.19
+cardano	0.00
+xrp	0.33
+dogecoin	0.22
+----------- 2021-06-20 01:32:15 -----------
+bitcoin	0.16
+ethereum	0.22
+cardano	0.00
+xrp	0.43
+dogecoin	0.21
+----------- 2021-06-20 01:32:20 -----------
+bitcoin	0.16
+ethereum	0.22
+cardano	0.00
+xrp	0.43
+dogecoin	0.22
+----------- 2021-06-20 01:32:25 -----------
+bitcoin	0.16
+ethereum	0.22
+cardano	0.00
+xrp	0.38
+dogecoin	0.22
+----------- 2021-06-20 01:32:30 -----------
+bitcoin	0.15
+ethereum	0.22
+cardano	0.00
+xrp	0.38
+dogecoin	0.23
+----------- 2021-06-20 01:32:35 -----------
+bitcoin	0.14
+ethereum	0.25
+cardano	0.00
+xrp	0.38
+dogecoin	0.24
+----------- 2021-06-20 01:32:40 -----------
+bitcoin	0.13
+ethereum	0.25
+cardano	0.00
+xrp	0.38
+dogecoin	0.24
+----------- 2021-06-20 01:32:45 -----------
+bitcoin	0.13
+ethereum	0.25
+cardano	0.00
+xrp	0.38
+dogecoin	0.23
+----------- 2021-06-20 01:32:50 -----------
+bitcoin	0.13
+ethereum	0.24
+cardano	0.00
+xrp	0.38
+dogecoin	0.23
+----------- 2021-06-20 01:32:55 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.38
+dogecoin	0.22
+----------- 2021-06-20 01:33:00 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.38
+dogecoin	0.22
+----------- 2021-06-20 01:33:05 -----------
+bitcoin	0.13
+ethereum	0.23
+cardano	0.00
+xrp	0.38
+dogecoin	0.23
+----------- 2021-06-20 01:33:10 -----------
+bitcoin	0.13
+ethereum	0.23
+cardano	0.00
+xrp	0.38
+dogecoin	0.24
+----------- 2021-06-20 01:33:15 -----------
+bitcoin	0.12
+ethereum	0.23
+cardano	0.00
+xrp	0.38
+dogecoin	0.25
+----------- 2021-06-20 01:33:20 -----------
+bitcoin	0.12
+ethereum	0.23
+cardano	0.00
+xrp	0.38
+dogecoin	0.25
+----------- 2021-06-20 01:33:25 -----------
+bitcoin	0.12
+ethereum	0.21
+cardano	0.00
+xrp	0.38
+dogecoin	0.24
+----------- 2021-06-20 01:33:30 -----------
+bitcoin	0.12
+ethereum	0.21
+cardano	0.00
+xrp	0.22
+dogecoin	0.24
+----------- 2021-06-20 01:33:35 -----------
+bitcoin	0.12
+ethereum	0.21
+cardano	0.00
+xrp	0.22
+dogecoin	0.25
+----------- 2021-06-20 01:33:40 -----------
+bitcoin	0.12
+ethereum	0.21
+cardano	0.00
+xrp	0.22
+dogecoin	0.26
+----------- 2021-06-20 01:33:45 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.22
+dogecoin	0.26
+----------- 2021-06-20 01:33:50 -----------
+bitcoin	0.11
+ethereum	0.24
+cardano	0.00
+xrp	0.22
+dogecoin	0.26
+----------- 2021-06-20 01:33:55 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.22
+dogecoin	0.27
+----------- 2021-06-20 01:34:00 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:05 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:10 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:15 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:20 -----------
+bitcoin	0.12
+ethereum	0.23
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:25 -----------
+bitcoin	0.12
+ethereum	0.23
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:30 -----------
+bitcoin	0.12
+ethereum	0.23
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:35 -----------
+bitcoin	0.12
+ethereum	0.22
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:40 -----------
+bitcoin	0.12
+ethereum	0.22
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:45 -----------
+bitcoin	0.12
+ethereum	0.22
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:50 -----------
+bitcoin	0.12
+ethereum	0.22
+cardano	0.00
+xrp	0.20
+dogecoin	0.25
+----------- 2021-06-20 01:34:55 -----------
+bitcoin	0.12
+ethereum	0.22
+cardano	0.00
+xrp	0.18
+dogecoin	0.25
+----------- 2021-06-20 01:35:00 -----------
+bitcoin	0.11
+ethereum	0.22
+cardano	0.00
+xrp	0.18
+dogecoin	0.25
+----------- 2021-06-20 01:35:05 -----------
+bitcoin	0.11
+ethereum	0.22
+cardano	0.00
+xrp	0.18
+dogecoin	0.25
+----------- 2021-06-20 01:35:10 -----------
+bitcoin	0.11
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:15 -----------
+bitcoin	0.11
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:20 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:25 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:30 -----------
+bitcoin	0.12
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:35 -----------
+bitcoin	0.13
+ethereum	0.24
+cardano	0.00
+xrp	0.18
+dogecoin	0.26
+----------- 2021-06-20 01:35:40 -----------
+bitcoin	0.13
+ethereum	0.26
+cardano	0.00
+xrp	0.18
+dogecoin	0.27
+----------- 2021-06-20 01:35:45 -----------
+bitcoin	0.12
+ethereum	0.26
+cardano	0.00
+xrp	0.18
+dogecoin	0.27
+----------- 2021-06-20 01:35:50 -----------
+bitcoin	0.13
+ethereum	0.26
+cardano	0.00
+xrp	0.18
+dogecoin	0.27
+----------- 2021-06-20 01:35:55 -----------
+bitcoin	0.13
+ethereum	0.26
+cardano	0.00
+xrp	0.18
+dogecoin	0.27
+----------- 2021-06-20 01:36:00 -----------
+bitcoin	0.13
+ethereum	0.25
+cardano	0.00
+xrp	0.18
+dogecoin	0.27
+----------- 2021-06-20 01:36:05 -----------

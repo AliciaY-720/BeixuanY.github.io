@@ -1,0 +1,89 @@
+----------- 2021-06-20 01:25:49 -----------
+----------- 2021-06-20 01:25:55 -----------
+----------- 2021-06-20 01:26:00 -----------
+#bitcoin                                 1
+#dogecoin                                1
+----------- 2021-06-20 01:26:05 -----------
+#bitcoin                                 3
+#dogecoin                                3
+----------- 2021-06-20 01:26:10 -----------
+#ethereum                                2
+#bitcoin                                 4
+#dogecoin                                5
+----------- 2021-06-20 01:26:15 -----------
+#ethereum                                2
+#bitcoin                                 10
+#dogecoin                                6
+----------- 2021-06-20 01:26:20 -----------
+#ethereum                                2
+#bitcoin                                 13
+#dogecoin                                6
+----------- 2021-06-20 01:26:25 -----------
+#ethereum                                3
+#bitcoin                                 16
+#dogecoin                                9
+----------- 2021-06-20 01:26:30 -----------
+#ethereum                                4
+#cardano                                 1
+#bitcoin                                 20
+#dogecoin                                10
+----------- 2021-06-20 01:26:35 -----------
+#ethereum                                4
+#cardano                                 1
+#bitcoin                                 22
+#dogecoin                                11
+----------- 2021-06-20 01:26:40 -----------
+#ethereum                                5
+#cardano                                 2
+#bitcoin                                 27
+#dogecoin                                12
+----------- 2021-06-20 01:26:45 -----------
+#ethereum                                5
+#cardano                                 2
+#bitcoin                                 28
+#dogecoin                                12
+----------- 2021-06-20 01:26:50 -----------
+#ethereum                                7
+#cardano                                 3
+#bitcoin                                 34
+#dogecoin                                15
+----------- 2021-06-20 01:26:55 -----------
+#ethereum                                7
+#cardano                                 4
+#bitcoin                                 34
+#dogecoin                                15
+----------- 2021-06-20 01:27:00 -----------
+#ethereum                                7
+#cardano                                 4
+#bitcoin                                 36
+#dogecoin                                15
+----------- 2021-06-20 01:27:05 -----------
+#ethereum                                9
+#cardano                                 4
+#xrp                                     1
+#dogecoin                                16
+#bitcoin                                 38
+----------- 2021-06-20 01:27:10 -----------
+#ethereum                                10
+#cardano                                 4
+#xrp                                     1
+#bitcoin                                 39
+#dogecoin                                16
+----------- 2021-06-20 01:27:15 -----------
+#ethereum                                10
+#cardano                                 4
+#bitcoin                                 43
+#xrp                                     1
+#dogecoin                                16
+----------- 2021-06-20 01:27:20 -----------
+#ethereum                                10
+#cardano                                 4
+#xrp                                     1
+#dogecoin                                17
+#bitcoin                                 45
+----------- 2021-06-20 01:27:25 -----------
+#ethereum                                10
+#cardano                                 4
+#xrp                                     1
+#bitcoin                                 50
+#dogecoin                                20
